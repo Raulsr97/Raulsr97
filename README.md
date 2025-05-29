@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Raúl Salinas Robles
+
+🎯 Desarrollador Backend Jr con enfoque en Node.js, Express y bases de datos MySQL.  
+Me gusta construir soluciones prácticas y eficientes para problemas reales, siempre buscando aprender más cada día.
+
 
 <!--
 **Raulsr97/Raulsr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
